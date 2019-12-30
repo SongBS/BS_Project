@@ -1,2 +1,4 @@
 # BS_Project
-Nuxt/Vue toy Project
+This project is using Nuxt/Vue based on node.js
+
+
